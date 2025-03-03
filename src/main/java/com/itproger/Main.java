@@ -13,6 +13,6 @@ public class Main {
             // for you, but you can always add more by pressing <shortcut actionId="ToggleLineBreakpoint"/>.
             System.out.println("i = " + i);
         }
-        Sytem.out.println("Nurdaulet changed code");
+        System.out.println("Nurdaulet changed code");
     }
 }

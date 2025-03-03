@@ -14,5 +14,7 @@ public class Main {
             System.out.println("i = " + i);
         }
         System.out.println("Nurdaulet changed code. I want to conflict");
+        System.out.println("Bakdaulet  changed code");
+        System.out.println("nurda the best");
     }
 }

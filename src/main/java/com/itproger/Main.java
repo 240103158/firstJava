@@ -16,5 +16,6 @@ public class Main {
         System.out.println("Nurdaulet changed code. I want to conflict");
         System.out.println("Bakdaulet  changed code");
         System.out.println("nurda the best");
+        System.out.println("I try");
     }
 }

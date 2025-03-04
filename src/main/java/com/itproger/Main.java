@@ -17,5 +17,6 @@ public class Main {
         System.out.println("Bakdaulet  changed code");
         System.out.println("nurda the best");
         System.out.println("I try");
+        System.out.println("beka ");
     }
 }

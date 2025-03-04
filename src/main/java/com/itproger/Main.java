@@ -18,5 +18,6 @@ public class Main {
         System.out.println("nurda the best");
         System.out.println("I try");
         System.out.println("beka ");
+        System.out.println("it work");
     }
 }
